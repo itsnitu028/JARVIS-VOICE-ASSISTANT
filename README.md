@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/b96363a1-f8d8-4244-82a8-9b2e71b9202a
+
+
+
+https://github.com/user-attachments/assets/bdf9895d-e5bc-45ac-a1d6-4f69107a6e21
+
 # 🎙️ JARVIS - Voice Assistant
 
 A Python-based voice assistant inspired by JARVIS that can recognize voice commands, open websites, play music, and read the latest news.
