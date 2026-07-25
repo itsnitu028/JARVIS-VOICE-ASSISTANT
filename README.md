@@ -1,10 +1,14 @@
 
 
-https://github.com/user-attachments/assets/b96363a1-f8d8-4244-82a8-9b2e71b9202a
+
+
+https://github.com/user-attachments/assets/95609c1b-93f8-4116-9ced-9392dc1fe0bb
 
 
 
-https://github.com/user-attachments/assets/bdf9895d-e5bc-45ac-a1d6-4f69107a6e21
+https://github.com/user-attachments/assets/3adf04fb-e3d0-4813-b89e-4b94e1e5a2af
+
+
 
 # 🎙️ JARVIS - Voice Assistant
 
